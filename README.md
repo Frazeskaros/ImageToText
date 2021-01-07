@@ -1,2 +1,6 @@
-# ImageToText Version 0.1
+# ImageToText
 This Version is only for Linux OS
+
+
+Upcoming:
+tkinter Frame
