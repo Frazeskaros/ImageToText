@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 
 opsy= input("Select OS (ubu, fed, man)\n>")
